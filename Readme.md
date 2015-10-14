@@ -7,11 +7,11 @@ Is a minor silex application showcasing the of how to handle request and respons
     $ composer install
 
 ## Starting the server
-   $ php -S 127.0.0.1:1337
+    $ php -S 127.0.0.1:1337
 
 ## Issuing requests
 
-Example are using httpie for issuing requests.
+Example are using [httpie](https://github.com/jkbrzt/httpie) for issuing requests. You can use curl if you remember its syntax for I cannot.
 
 ### Wrong method
 
