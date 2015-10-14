@@ -1,0 +1,20 @@
+{
+    "name": "kopernikus/php-ajax-error",
+    "require": {
+        "silex/silex": "~1.0"
+    },
+    "prefer-stable": true,
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philipp Kretzschmar",
+            "email": "philipp.kretzschmar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kopernikus\\": "src/Kopernikus"
+        }
+    },
+    "minimum-stability": "dev"
+}
